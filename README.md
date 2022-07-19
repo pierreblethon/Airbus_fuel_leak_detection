@@ -2,7 +2,7 @@
 
 Hello dear reader! This repository contains our work on fuel leak detection for our capstone project of our master in Big Data and Business Analytics. 
 
-Our team was composed of Pierre Bléthon, Alexi Mathay, Diego Garate, Alice Seynaeve and Timothé Rigaudeau.
+Our team was composed of Pierre Blethon, Alexi Mathay, Diego Garate, Alice Seynaeve and Timothé Rigaudeau.
 
 Here you will find:
 - our code for cleaning and preprocessing of data + our unsupervised and statistical approaches
